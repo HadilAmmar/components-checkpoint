@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.photo{
+  border-radius: 50%;
+margin-top: 40px;
+}
+.name{
+  color: orangered;
+}
+.nam{
+  color: orange;
+}
